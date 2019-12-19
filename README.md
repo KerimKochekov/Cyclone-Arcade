@@ -7,7 +7,7 @@ For Windows:
 # Game logo:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/50640842/71180407-309ee000-2283-11ea-9067-ea6a6947f2b6.png" /></p>
+  
 # Game interface
-![logo](https://user-images.githubusercontent.com/50640842/71180407-309ee000-2283-11ea-9067-ea6a6947f2b6.png)
-
-![tmp](https://user-images.githubusercontent.com/50640842/71180349-0816e600-2283-11ea-8824-4f9757ad43e4.jpg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/50640842/71180349-0816e600-2283-11ea-8824-4f9757ad43e4.jpg" /></p>

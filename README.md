@@ -4,5 +4,6 @@ For Windows:
 2) Create shortcut of .bat file and change the logo of it "logo.ico" to run game easily from any directory of your PC.
 3) Good luck and have fun!
 
-Game interface:
-![alt text](https://ibb.co/2YZLZv3)
+# Game interface:
+![alt text](![tmp](https://user-images.githubusercontent.com/50640842/71180226-c8e89500-2282-11ea-848c-fe5c7602e954.jpg)
+)

@@ -5,5 +5,5 @@ For Windows:
 3) Good luck and have fun!
 
 # Game interface:
-![alt text](![tmp](https://user-images.githubusercontent.com/50640842/71180226-c8e89500-2282-11ea-848c-fe5c7602e954.jpg)
+(![tmp](https://user-images.githubusercontent.com/50640842/71180226-c8e89500-2282-11ea-848c-fe5c7602e954.jpg)
 )
